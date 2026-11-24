@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "text": "I absolutely loved this movie.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 2,
+    "text": "The acting was excellent and the story kept me interested.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 3,
+    "text": "This was one of the best films I have seen this year.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 4,
+    "text": "The ending was satisfying and beautifully written.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 5,
+    "text": "I really enjoyed every minute of it.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 6,
+    "text": "The characters were charming and memorable.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 7,
+    "text": "The soundtrack was fantastic.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 8,
+    "text": "I would happily watch this again.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 9,
+    "text": "The film was surprisingly good.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 10,
+    "text": "The director did an amazing job.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 11,
+    "text": "It was funny, warm, and entertaining.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 12,
+    "text": "The performances were strong from beginning to end.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 13,
+    "text": "I liked the story and the visual style.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 14,
+    "text": "This film exceeded my expectations.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 15,
+    "text": "The plot was engaging and easy to follow.",
+    "label": "POSITIVE",
+    "split": "train"
+  },
+  {
+    "id": 16,
+    "text": "I hated this movie.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 17,
+    "text": "The story was boring and predictable.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 18,
+    "text": "The acting was terrible.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 19,
+    "text": "This was a complete waste of time.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 20,
+    "text": "The characters were annoying and poorly written.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 21,
+    "text": "I would never watch this again.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 22,
+    "text": "The ending was disappointing.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 23,
+    "text": "The film was painfully slow.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 24,
+    "text": "The dialogue sounded unnatural and awkward.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 25,
+    "text": "I regret watching this film.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 26,
+    "text": "Nothing about the movie worked for me.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 27,
+    "text": "The plot made no sense.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 28,
+    "text": "It was dull from start to finish.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 29,
+    "text": "The director failed to make the story interesting.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 30,
+    "text": "The movie was frustrating and forgettable.",
+    "label": "NEGATIVE",
+    "split": "train"
+  },
+  {
+    "id": 31,
+    "text": "I expected it to be terrible, but it was actually great.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 32,
+    "text": "It starts slowly, yet the second half is excellent.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 33,
+    "text": "The movie is not perfect, but I still enjoyed it a lot.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 34,
+    "text": "Despite a few weak scenes, the overall experience was wonderful.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 35,
+    "text": "I did not think I would like it, but I was pleasantly surprised.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 36,
+    "text": "The story was simple, but the performances made it worth watching.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 37,
+    "text": "It was much better than I expected.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 38,
+    "text": "The ending saved an otherwise ordinary film.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 39,
+    "text": "I was skeptical at first, but the movie won me over.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 40,
+    "text": "There are some flaws, but I would recommend it.",
+    "label": "POSITIVE",
+    "split": "test"
+  },
+  {
+    "id": 41,
+    "text": "I wanted to like this movie, but it disappointed me.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 42,
+    "text": "The visuals were beautiful, but the story was painfully boring.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 43,
+    "text": "It was not the worst film ever, but I would not recommend it.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 44,
+    "text": "The first half was promising, yet the ending ruined everything.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 45,
+    "text": "I laughed once or twice, but most of the jokes did not work.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 46,
+    "text": "The actors tried their best, but the script let them down.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 47,
+    "text": "I expected something exciting and got a dull, confusing mess.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 48,
+    "text": "The movie had a good idea, but the execution was poor.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 49,
+    "text": "It looked impressive, although I found the experience empty and forgettable.",
+    "label": "NEGATIVE",
+    "split": "test"
+  },
+  {
+    "id": 50,
+    "text": "The beginning was strong, but by the end I had completely lost interest.",
+    "label": "NEGATIVE",
+    "split": "test"
+  }
+]
