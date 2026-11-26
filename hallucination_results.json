@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "type": "ANSWERABLE",
+    "mode": "FORCED",
+    "expected": "25",
+    "status": "ANSWER",
+    "answer": "25"
+  },
+  {
+    "id": 1,
+    "type": "ANSWERABLE",
+    "mode": "CAUTIOUS",
+    "expected": "25",
+    "status": "ANSWER",
+    "answer": "25"
+  },
+  {
+    "id": 2,
+    "type": "MISSING_INFO",
+    "mode": "CAUTIOUS",
+    "expected": null,
+    "status": "UNKNOWN",
+    "answer": null
+  },
+  {
+    "id": 3,
+    "type": "FALSE_PREMISE",
+    "mode": "CAUTIOUS",
+    "expected": null,
+    "status": "UNKNOWN",
+    "answer": null
+  },
+  {
+    "id": 4,
+    "type": "MISSING_INFO",
+    "mode": "CAUTIOUS",
+    "expected": null,
+    "status": "UNKNOWN",
+    "answer": null
+  },
+  {
+    "id": 5,
+    "type": "ANSWERABLE",
+    "mode": "FORCED",
+    "expected": "$1,200",
+    "status": "ANSWER",
+    "answer": "$1,200"
+  },
+  {
+    "id": 5,
+    "type": "ANSWERABLE",
+    "mode": "CAUTIOUS",
+    "expected": "$1,200",
+    "status": "ANSWER",
+    "answer": "1,200"
+  },
+  {
+    "id": 6,
+    "type": "MISSING_INFO",
+    "mode": "CAUTIOUS",
+    "expected": null,
+    "status": "UNKNOWN",
+    "answer": null
+  }
+]
